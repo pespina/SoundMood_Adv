@@ -3,4 +3,9 @@
     max-height:500px;
 }
 
-
+body {
+    background-image: url(https://media.giphy.com/media/xTiTnlanlqxnyENcZi/giphy.gif);
+    min-height: 2000px;
+    min-width:2000px;
+    
+}
